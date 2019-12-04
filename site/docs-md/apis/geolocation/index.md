@@ -41,7 +41,7 @@ This API requires the following permissions be added to your `AndroidManifest.xm
 
 The first two permissions ask for location data, both fine and coarse, and the last line is optional but necessary if your app _requires_ GPS to function. You may leave it out, though keep in mind that this may mean your app is installed on devices lacking GPS hardware.
 
-Read about [Setting Android Permissions](../android/configuration/) in the [Android Guide](../android/) for more information on setting Android permissions.
+Read about [Setting Android Permissions](../../android/configuration/) in the [Android Guide](../android/) for more information on setting Android permissions.
 
 ## Example
 
